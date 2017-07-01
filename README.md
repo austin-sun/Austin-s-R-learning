@@ -1,3 +1,3 @@
 # Austin's R learning 
 Hello World!
-My name's Austin Sun,a data analyst.
+My name's Austin Sun,a data analyst works for Qunar.com.
